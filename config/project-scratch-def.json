@@ -1,0 +1,11 @@
+{
+    "orgName": "My Scratch Org",
+    "edition": "Developer",
+    "features": ["Salesforce1", "Api", "LightningWebComponents"],
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "chatterEnabled": true
+        }
+    }
+}
